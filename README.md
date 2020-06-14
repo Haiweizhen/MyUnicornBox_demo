@@ -1,8 +1,8 @@
 ## MyUnicornBox Project
-•	Implemented a web server in Go for file storage and management
-•	Completed functions to handle file operation requests: upload files, download files and share files
-•	Stored user and file operation information in SQLite database and file data in disk storage
-•	Added support for handling user registration and user authentication.
+•	Implemented a web server in Go for file storage and management <br>
+•	Completed functions to handle file operation requests: upload files, download files and share files<br>
+•	Stored user and file operation information in SQLite database and file data in disk storage<br>
+•	Added support for handling user registration and user authentication<br>
   
 ## Future Improvement
 Add more security support
